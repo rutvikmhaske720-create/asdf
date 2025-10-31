@@ -1,2 +1,2 @@
 print("hi guthub")
-a = 10
+a = 20
